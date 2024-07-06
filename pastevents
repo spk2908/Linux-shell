@@ -1,0 +1,7 @@
+fg 1
+bg 1
+sleep 25
+nano
+vim
+echo hi > new.txt
+cat new.txt
